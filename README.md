@@ -36,7 +36,7 @@
 </div>
 
 ###
-<h3 align="left">🛠 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨</h3>
+<h3 align="left">🛠 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨:</h3>
 <br>
 
 <div align="center">
@@ -79,7 +79,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xadarsh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=xadarsh&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
+### 🔝 𝙏𝙤𝙥 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚𝙙 𝙍𝙚𝙥𝙤:
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=xadarsh&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
+
+</div>
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshmaurya541/adarshmaurya541/output/github-snake-dark.svg" />
