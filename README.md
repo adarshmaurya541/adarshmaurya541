@@ -16,26 +16,28 @@
 </div>
 
 ###
-
+<h3 align="left">😉𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚:</h3>
 <div align="center">
+    <a href="https://www.linkedin.com/in/xadarsh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="mailto:adarshmaurya541@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.instagram.com/xadarsh_x" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:adarshmaurya541@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/xadarsh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="74" height="35" alt="instagram logo"  />
   </a>
   <a href="https://t.me/xadarsh_x" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="35" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="74" height="35" alt="telegram logo"  />
   </a>
   <a href="https://twitter.com/@xadarsh_x" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="35" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="74" height="35" alt="twitter logo"  />
   </a>
 </div>
 
 ###
+<h3 align="left">🛠 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨</h3>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="java logo"  />
@@ -71,8 +73,8 @@
 
 ###
 
-<br clear="both">
 
+<h3 align="left">🔥   𝙈𝙮 𝙎𝙩𝙖𝙩𝙨:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xadarsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=xadarsh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
