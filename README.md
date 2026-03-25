@@ -100,4 +100,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/adarshmaurya541/adarshmaurya541/output/github-snake.svg" />
 </picture>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/adarsh_x?theme=dark&ext=contest)
+
 ###
